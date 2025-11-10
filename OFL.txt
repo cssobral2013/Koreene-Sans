@@ -1,4 +1,6 @@
-(C) Copyright HanYang I&C Co.,Ltd. All rights reserved.
+Copyright 2024 LyonsType (lyonstype4.wixsite.com/lyonstype-beta),
+with Reserved Font Name "LT Superior"
+Copyright 2025 The Koreene Sans Project Authors (https://github.com/cssobral2013/Koreene-Sans)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
